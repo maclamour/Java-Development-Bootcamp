@@ -5,6 +5,6 @@ public class WholeNumbers {
         
         
         long dailyGoogleSearches = 8500000000L;
-        System.out.println("The daily number of google searches is " + dailyGoogleSearches + "That is amazing");
+        System.out.println("The daily number of google searches is " + dailyGoogleSearches + "That is amazing!");
     }
 }
