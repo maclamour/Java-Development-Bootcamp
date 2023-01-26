@@ -11,7 +11,7 @@ public class Meeting {
         System.out.println("This month, we made " + (int)sales + " in sales!");
         System.out.println("Factoring in costs, we made " +(int)profit +  " in profit!!");
         System.out.println("The refunds are at a low " + (int)refunds + "." + " This is a good sign!");
-        System.out.println("Shipping costs were high. We paid " + (int)shipping +  " in shipping");
+        System.out.println("Shipping costs were high. We paid " + (int)shipping +  " in shipping, no good! ");
 
 
     }
