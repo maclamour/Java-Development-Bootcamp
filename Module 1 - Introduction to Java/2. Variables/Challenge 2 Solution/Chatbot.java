@@ -21,7 +21,7 @@ public class Chatbot {
         scan.nextLine();
         String language = scan.nextLine();
 
-        System.out.println("\n" + language + ", that's great! Nice chatting with you " + name + ". I have to log off now. See ya!");
+        System.out.println("\n" + language + ", that's great! Nice chatting with you " + name + ". I have to log off now. See ya!!");
         
         scan.close();
     }
