@@ -9,7 +9,7 @@ public class BooleanComparisons {
         System.out.println(biologyGrade > chemistryGrade);
 
         double sales = 37.55;
-        double costs = 5.55;
+        double costs = 5.45;
         System.out.println(sales > costs);
 
 
